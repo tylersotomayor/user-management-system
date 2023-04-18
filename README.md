@@ -16,7 +16,7 @@ Run the program: python3 main.py
 ## Usage
 The user management system allows you to perform the following actions:
 
-### Add a new user
+#### •Add a new user
 #### •View all users
 #### •Search for a user
 #### •Delete a user
