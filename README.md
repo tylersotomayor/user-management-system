@@ -17,9 +17,9 @@ Run the program: python3 main.py
 The user management system allows you to perform the following actions:
 
 ### Add a new user
-#### View all users
-#### Search for a user
-#### Delete a user
+#### •View all users
+#### •Search for a user
+#### •Delete a user
 When you run the program, you will be presented with a menu where you can choose which action to perform.
 
 ### Adding a User
